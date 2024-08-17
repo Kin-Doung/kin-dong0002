@@ -1,0 +1,83 @@
+.contain{
+    background-color: pink;
+    margin: 10px 50px;
+    color: #fff;
+    font-size: 30px;
+}
+.world{
+    padding: 10px;
+}
+header{
+    background-color: #5dade2;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.methom{
+    display: flex;
+}
+.aside{
+    font-size: 40px;
+    margin: 0px 20px 20px 0px;
+    flex: 1;
+    background-color: #2980b9 ;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.article{
+    flex: 3;
+    background-color: #e74c3c;
+    margin-bottom: 20px;
+    height: 69vh;
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+}
+.img-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    height: 270px;
+    flex: 0.3;
+    background-color: gray;
+}
+.img-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+    margin: 5px;
+    flex: 0.3;
+    background-color: gray;
+}
+.img-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 270px;
+    margin: 5px;
+    flex: 0.3;
+    background-color: gray;
+}
+.arti{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 32vh;
+}
+footer{
+    font-size: 40px;
+    background-color: #3498db;
+    flex: 1;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
